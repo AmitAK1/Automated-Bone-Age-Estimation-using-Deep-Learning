@@ -24,7 +24,7 @@ A deep learning-based system for automated pediatric bone age estimation using h
 Bone age assessment is a critical diagnostic tool for evaluating skeletal maturity and diagnosing growth disorders in children. Traditional manual methods are time-consuming and subject to inter-observer variability (±6-12 months). This project implements an automated bone age prediction system using deep learning to achieve clinically acceptable accuracy.
 
 **Key Achievements:**
-- 📊 **R² Score: 0.9169** (target: ≥0.92)
+- 📊 **R² Score: 0.9169** (target: ≥0.90)
 - 📉 **MAE: 9.04 months** (target: ≤12 months)
 - ⚖️ **Low Gender Bias**: <2 months MAE difference between genders
 - 🎯 **91.54% Classification Accuracy** for developmental stages
