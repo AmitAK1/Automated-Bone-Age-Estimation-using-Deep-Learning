@@ -253,7 +253,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or collaborations:
 - GitHub: [@AmitAK1](https://github.com/AmitAK1)
-- Email: cs23b2034@iittp.ac.in
+- Email: cs23b2034@iiitdm.ac.in
 
 ---
 
